@@ -1,0 +1,11 @@
+_cache/
+_site
+public/
+dist-newstyle/
+.stack-work
+.DS_Store
+node_modules/
+
+# Added automatically by ‘eldev init’.
+/.eldev
+/Eldev-local
